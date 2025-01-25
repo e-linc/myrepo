@@ -1,6 +1,4 @@
-# myrepo
-Repository for testing my Git/GitHub setup
-A line I wrote on my local computer  
-A line I added from the local repo on my C: drive.
+# setup-repo
+Minimum repo for setting up Git and GitHub on new computers
 
-2024-12-12 Test for new git setup on RStudio
+2025-01-25 GitHub test from RStudio
